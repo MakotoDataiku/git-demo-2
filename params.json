@@ -216,7 +216,7 @@
       }
     }
   },
-  "name": "Git Demo",
+  "name": "Git Demo (prune-flow)",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -273,11 +273,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 138,
+    "versionNumber": 139,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617952760781
+    "lastModifiedOn": 1617952763437
   },
   "creationTag": {
     "versionNumber": 0,
@@ -287,7 +287,7 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
+  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n\nThe project *GIT_DEMO_PRUNE_FLOW* was copied from *DKU_HAIKU_STARTER* by Makoto Miyazaki on Apr 09th 2021",
   "tags": [
     "tutorial",
     "duplicated"
